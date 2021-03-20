@@ -40,7 +40,7 @@ hyperlink==18.0.0
 idna==2.8
 incremental==17.5.0
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 labelme==3.15.2
