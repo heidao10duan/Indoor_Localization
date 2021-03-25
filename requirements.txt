@@ -73,7 +73,7 @@ pyStrich==0.8
 pytest==4.4.1
 python-dateutil==2.6.1
 pytz==2017.2
-PyYAML==3.13
+PyYAML==5.4
 QtPy==1.7.1
 reportlab==3.4.0
 requests==2.14.2
