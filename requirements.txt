@@ -52,7 +52,7 @@ msgpack==0.6.0
 mysqlclient==1.4.1
 numpy==1.16.0
 olefile==0.44
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 paho-mqtt==1.4.0
 pandas==0.20.3
 passlib==1.7.1
