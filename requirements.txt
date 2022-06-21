@@ -50,7 +50,7 @@ matplotlib==2.0.2
 more-itertools==7.0.0
 msgpack==0.6.0
 mysqlclient==1.4.1
-numpy==1.16.0
+numpy==1.22.0
 olefile==0.44
 opencv-python==4.1.0.25
 paho-mqtt==1.4.0
