@@ -9,7 +9,7 @@ attrs==18.2.0
 autobahn==19.1.1
 Automat==0.7.0
 baidu-aip==2.2.13.0
-certifi==2016.2.28
+certifi==2022.12.7
 cffi==1.12.3
 channels==2.1.6
 channels-redis==2.3.3
